@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "practice",
+			"path": "../../../../Users/suman/practice"
+		},
+		{
+			"path": "../../../../Users/suman/profile-card"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rental"
+	}
+}
